@@ -1,0 +1,7 @@
+ABOUT_US = '🧑‍🏫Biz haqimizda'
+ADDRESS = '📍manzil'
+CONTACT = '☎️Kontact'
+COURSE = '📚Course'
+My_CONTACT = '📲SHARE my contact'
+MY_LOCATION = '📍SHARE my location'
+FAQ = 'FAQ'
